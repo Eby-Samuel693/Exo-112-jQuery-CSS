@@ -1,0 +1,1 @@
+$('p').css({"backgroundColor":"red","color":"bleu","font-size":"25px","padding":"15px"});
